@@ -191,5 +191,3 @@ Note Machine 2 was used for obtaining all results with all baselines and the Saf
     year = {2021}
 }
 ```
-
-Welcome to contact me <chaoqiy2@illinois.edu> for any question. Partial credit to a previous repo (this paper is also from our group) https://github.com/sjy1203/GAMENet
